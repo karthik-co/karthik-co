@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Karthik
+- 👀 I’m interested in design, art, decentralized everything and cheese sandwiches 
+- 🌱 I’m currently learning risk assessment in insurance and agent-based modeling
